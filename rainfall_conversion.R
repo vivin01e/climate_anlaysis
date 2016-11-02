@@ -11,3 +11,5 @@ inches_to_mm <- function(inches {
   return(mm)
 
 }
+
+#[TODO: vivin01e]Add inches to cm conversion function.
